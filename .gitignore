@@ -3,6 +3,7 @@
 # Logs
 logs
 *.log
+*.json
 
 # Runtime data
 pids
@@ -33,3 +34,5 @@ bower_components/
 .floobit
 .floo
 .flooignore
+
+package.json
